@@ -1,0 +1,3 @@
+Firstly, click the properties of project. 
+And then, click the external JARS... 
+button to add the mysql-connector-...(in user's computer). 
