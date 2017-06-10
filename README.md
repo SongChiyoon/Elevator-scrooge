@@ -15,5 +15,6 @@ like scrooge saves the money by trying to not use the non-productive things.
 3.‘calcul method’ : consider elevator state and person location, destination, then set ‘result’ according to each case.
 
 # result img
-![Alt text](./Elevator-scrooge/elevator.jpeg)
+
+![alt text](https://github.com/SongChiyoon/Elevator-scrooge/blob/master/elevator.jpeg)
 
