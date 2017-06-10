@@ -1,6 +1,6 @@
 # Elevator-scrooge
 >It decreases the waiting time of user and reduces the efficient movement of elevator 
-like scrooge saves the money by trying to not use the non-productive things.
+like scrooge saves the money by trying to not use the non-productive things.<br>
 > skills : JAVA, threads, mysql
 
 # How to make ?
@@ -10,7 +10,7 @@ like scrooge saves the money by trying to not use the non-productive things.
 
 # make Expression
 1.compare : | elevator Location – person Location |
-2.usability : consider the number of waiting people and inner people about each elevator and set usability according to each case
+2.usability : consider the number of waiting people and inner people about each elevator and set usability according to each case <br>
 ( over 12, over 8 ... )
 3.‘calcul method’ : consider elevator state and person location, destination, then set ‘result’ according to each case.
 
