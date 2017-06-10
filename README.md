@@ -15,5 +15,5 @@ like scrooge saves the money by trying to not use the non-productive things.
 3.‘calcul method’ : consider elevator state and person location, destination, then set ‘result’ according to each case.
 
 # result img
-<img src = './Elevator-scrooge/elevator.jpeg'>
+![Alt text](./Elevator-scrooge/elevator.jpeg)
 
